@@ -1,8 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": {
-		"name" : "Wanuja Ranasinghe"
-		
+		"name": "Wanuja Ranasinghe"
 	},
 	"description": "This is a test description",
 	"keywords": [
@@ -12,6 +11,7 @@
 		"words"
 	],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
