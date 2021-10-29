@@ -1,9 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": {
-		"name" : "Wanuja Ranasinghe",
-		"description": "This is a test description"
+		"name" : "Wanuja Ranasinghe"
+		
 	},
+	"description": "This is a test description",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
