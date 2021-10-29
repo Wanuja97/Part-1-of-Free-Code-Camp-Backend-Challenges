@@ -5,6 +5,13 @@
 		
 	},
 	"description": "This is a test description",
+	"keywords": [
+		"freecodecamp",
+		"descriptive",
+		"related",
+		"words"
+	],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
